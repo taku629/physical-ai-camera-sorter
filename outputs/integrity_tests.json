@@ -1,0 +1,37 @@
+{
+  "all_passed": true,
+  "tests": [
+    {
+      "name": "saved_test_metric_recomputed",
+      "passed": true,
+      "correct": 45,
+      "total": 45
+    },
+    {
+      "name": "render_split_filenames_disjoint",
+      "passed": true,
+      "train": 135,
+      "test": 45
+    },
+    {
+      "name": "no_contact_no_virtual_grasp",
+      "passed": true,
+      "refused_count": 3,
+      "total": 3
+    },
+    {
+      "name": "prediction_follows_rendered_rgb_not_body_identity",
+      "passed": true,
+      "expected": {
+        "RED": "BLUE",
+        "GREEN": "RED",
+        "BLUE": "GREEN"
+      },
+      "observed": {
+        "RED": "BLUE",
+        "GREEN": "RED",
+        "BLUE": "GREEN"
+      }
+    }
+  ]
+}

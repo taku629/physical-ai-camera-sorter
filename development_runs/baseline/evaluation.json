@@ -1,0 +1,67 @@
+{
+  "seed": 20261029,
+  "model": "sklearn MLPClassifier(hidden_layer_sizes=(96,48))",
+  "input": "18x18 RGB camera crop, flattened; segmentation-derived crop localization only",
+  "n_samples_total": 180,
+  "train_n": 135,
+  "test_n": 45,
+  "class_order": [
+    "RED",
+    "GREEN",
+    "BLUE"
+  ],
+  "train_class_counts": {
+    "RED": 45,
+    "GREEN": 45,
+    "BLUE": 45
+  },
+  "test_class_counts": {
+    "RED": 15,
+    "GREEN": 15,
+    "BLUE": 15
+  },
+  "test_correct": 42,
+  "test_total": 45,
+  "test_accuracy": 0.9333333333333333,
+  "confusion_matrix_rows_true_cols_pred": [
+    [
+      13,
+      2,
+      0
+    ],
+    [
+      0,
+      15,
+      0
+    ],
+    [
+      0,
+      1,
+      14
+    ]
+  ],
+  "per_class": {
+    "RED": {
+      "precision": 1.0,
+      "recall": 0.8666666666666667,
+      "f1": 0.9285714285714286
+    },
+    "GREEN": {
+      "precision": 0.8333333333333334,
+      "recall": 1.0,
+      "f1": 0.9090909090909091
+    },
+    "BLUE": {
+      "precision": 1.0,
+      "recall": 0.9333333333333333,
+      "f1": 0.9655172413793104
+    }
+  },
+  "iterations": 22,
+  "converged_within_limit": true,
+  "limitations": [
+    "Fixed camera and simulation appearance",
+    "Privileged segmentation provides object crop; no camera-based 3D localization",
+    "Synthetic rendered crops are not real-world data"
+  ]
+}

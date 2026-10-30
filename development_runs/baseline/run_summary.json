@@ -1,0 +1,122 @@
+{
+  "seed": 20261029,
+  "backend": "PyBullet DIRECT CPU",
+  "video": {
+    "file": "sorter_demo.mp4",
+    "width": 1280,
+    "height": 720,
+    "fps": 20,
+    "frames": 0,
+    "duration_seconds": 0.0,
+    "simulated_seconds_advanced": 27.05,
+    "playback_to_simulation_time_ratio": 0.0,
+    "nominal_ratio": "1.00x (12 physics steps/frame at 240 Hz, 20 fps)",
+    "audio": false
+  },
+  "sort_results": [
+    {
+      "seq": 1,
+      "actual_class": "RED",
+      "predicted_class": "RED",
+      "confidence": 0.6451371908187866,
+      "target_tray": "RED",
+      "object_body_id": 24,
+      "oracle_pick_xyz_m": [
+        0.35,
+        -0.16,
+        0.6269899074912008
+      ],
+      "oracle_pose_used_for_aiming": true,
+      "camera_inferred_pose": false,
+      "contact_verified": true,
+      "finger_contact_count": 3,
+      "ee_object_distance_m": 0.08939106720583889,
+      "constraint_created": true,
+      "constraint_type": "fixed virtual-grasp assist; only after finger contact and <=0.12m EE/object distance",
+      "lifted_after_verified_contact": true,
+      "final_xyz_m": [
+        0.5588668905400764,
+        -0.3396275453647979,
+        0.6569867422565148
+      ],
+      "inside_predicted_tray_bounds": true,
+      "success": true
+    },
+    {
+      "seq": 2,
+      "actual_class": "GREEN",
+      "predicted_class": "GREEN",
+      "confidence": 0.9262273907661438,
+      "target_tray": "GREEN",
+      "object_body_id": 23,
+      "oracle_pick_xyz_m": [
+        0.45,
+        -0.16,
+        0.6269899074912021
+      ],
+      "oracle_pose_used_for_aiming": true,
+      "camera_inferred_pose": false,
+      "contact_verified": false,
+      "finger_contact_count": 0,
+      "ee_object_distance_m": 0.17814063039595832,
+      "constraint_created": false,
+      "lifted_after_verified_contact": false,
+      "final_xyz_m": [
+        0.45,
+        -0.16,
+        0.6269899999999994
+      ],
+      "inside_predicted_tray_bounds": false,
+      "success": false
+    },
+    {
+      "seq": 3,
+      "actual_class": "BLUE",
+      "predicted_class": "GREEN",
+      "confidence": 0.9697844386100769,
+      "target_tray": "GREEN",
+      "object_body_id": 22,
+      "oracle_pick_xyz_m": [
+        0.55,
+        -0.16,
+        0.6269899999999994
+      ],
+      "oracle_pose_used_for_aiming": true,
+      "camera_inferred_pose": false,
+      "contact_verified": false,
+      "finger_contact_count": 0,
+      "ee_object_distance_m": 0.1852022803504478,
+      "constraint_created": false,
+      "lifted_after_verified_contact": false,
+      "final_xyz_m": [
+        0.55,
+        -0.16,
+        0.6269899999999994
+      ],
+      "inside_predicted_tray_bounds": false,
+      "success": false
+    }
+  ],
+  "tests": [
+    {
+      "name": "trained_model_predicts_all_three_categories",
+      "passed": true
+    },
+    {
+      "name": "every_success_has_verified_finger_contact",
+      "passed": true
+    },
+    {
+      "name": "classifier_prediction_drives_destination",
+      "passed": true
+    },
+    {
+      "name": "per_parcel_delivery",
+      "passed": false
+    }
+  ],
+  "total_simulation_steps": 6492,
+  "elapsed_wall_seconds_before_summary_write": 162.87607526779175,
+  "all_sort_success": false,
+  "all_tests_passed": false
+}

@@ -1,0 +1,141 @@
+{
+  "seed": 20261029,
+  "backend": "PyBullet DIRECT CPU",
+  "video": {
+    "file": "sorter_demo.mp4",
+    "width": 1280,
+    "height": 720,
+    "fps": 15,
+    "frames": 1082,
+    "duration_seconds": 72.13333333333334,
+    "simulated_seconds_advanced": 72.125,
+    "playback_to_simulation_time_ratio": 1.0001155401502022,
+    "nominal_ratio": "1.00x (16 physics steps/frame at 240 Hz, 15 fps)",
+    "audio": false,
+    "native_render_width": 640,
+    "native_render_height": 360
+  },
+  "sort_results": [
+    {
+      "seq": 1,
+      "actual_class": "RED",
+      "predicted_class": "RED",
+      "confidence": 0.9999951704780677,
+      "target_tray": "RED",
+      "object_body_id": 24,
+      "oracle_pick_xyz_m": [
+        0.32,
+        -0.25,
+        0.6269899074912008
+      ],
+      "oracle_pose_used_for_aiming": true,
+      "camera_inferred_pose": false,
+      "contact_verified": true,
+      "finger_contact_count": 2,
+      "ee_object_distance_m": 0.0031102338213844583,
+      "constraint_created": true,
+      "constraint_type": "fixed virtual-grasp assist; only after finger contact and <=0.12m EE/object distance",
+      "measured_height_after_lift_m": 0.9766678072319012,
+      "lifted_after_verified_contact": true,
+      "final_xyz_m": [
+        0.49987846078630277,
+        -0.5000273915215684,
+        0.6569861261403598
+      ],
+      "inside_predicted_tray_bounds": true,
+      "success": true
+    },
+    {
+      "seq": 2,
+      "actual_class": "GREEN",
+      "predicted_class": "GREEN",
+      "confidence": 0.9999948824972301,
+      "target_tray": "GREEN",
+      "object_body_id": 23,
+      "oracle_pick_xyz_m": [
+        0.43,
+        -0.25,
+        0.6269899074912021
+      ],
+      "oracle_pose_used_for_aiming": true,
+      "camera_inferred_pose": false,
+      "contact_verified": true,
+      "finger_contact_count": 2,
+      "ee_object_distance_m": 0.0030129577067524753,
+      "constraint_created": true,
+      "constraint_type": "fixed virtual-grasp assist; only after finger contact and <=0.12m EE/object distance",
+      "measured_height_after_lift_m": 0.976752205165119,
+      "lifted_after_verified_contact": true,
+      "final_xyz_m": [
+        0.6997862266254312,
+        9.834641092804426e-06,
+        0.6569879102122773
+      ],
+      "inside_predicted_tray_bounds": true,
+      "success": true
+    },
+    {
+      "seq": 3,
+      "actual_class": "BLUE",
+      "predicted_class": "BLUE",
+      "confidence": 0.9999687730763022,
+      "target_tray": "BLUE",
+      "object_body_id": 22,
+      "oracle_pick_xyz_m": [
+        0.54,
+        -0.25,
+        0.6269899074912021
+      ],
+      "oracle_pose_used_for_aiming": true,
+      "camera_inferred_pose": false,
+      "contact_verified": true,
+      "finger_contact_count": 2,
+      "ee_object_distance_m": 0.003002916545475093,
+      "constraint_created": true,
+      "constraint_type": "fixed virtual-grasp assist; only after finger contact and <=0.12m EE/object distance",
+      "measured_height_after_lift_m": 0.9767598722289237,
+      "lifted_after_verified_contact": true,
+      "final_xyz_m": [
+        0.4996820607613119,
+        0.499904499908109,
+        0.6569869239124198
+      ],
+      "inside_predicted_tray_bounds": true,
+      "success": true
+    }
+  ],
+  "tests": [
+    {
+      "name": "heldout_render_accuracy_at_least_95_percent",
+      "passed": true
+    },
+    {
+      "name": "trained_model_predicts_all_three_categories",
+      "passed": true
+    },
+    {
+      "name": "every_success_has_verified_finger_contact",
+      "passed": true
+    },
+    {
+      "name": "classifier_prediction_drives_destination",
+      "passed": true
+    },
+    {
+      "name": "per_parcel_delivery",
+      "passed": true
+    },
+    {
+      "name": "video_duration_60_to_180_seconds",
+      "passed": true
+    },
+    {
+      "name": "video_time_matches_simulation_within_one_frame",
+      "passed": true
+    }
+  ],
+  "total_simulation_steps": 17310,
+  "elapsed_wall_seconds_before_summary_write": 317.5952715873718,
+  "all_sort_success": true,
+  "all_tests_passed": true
+}

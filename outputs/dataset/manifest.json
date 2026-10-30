@@ -1,0 +1,1802 @@
+[
+  {
+    "file": "crops/red_000.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.3991471406576824,
+      -0.242361775771895
+    ],
+    "color_variant_seed": 1
+  },
+  {
+    "file": "crops/red_001.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.521320942869784,
+      -0.25178216823977323
+    ],
+    "color_variant_seed": 2
+  },
+  {
+    "file": "crops/red_002.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.3329236280263303,
+      -0.2536056434401319
+    ],
+    "color_variant_seed": 3
+  },
+  {
+    "file": "crops/red_003.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.40133600351334026,
+      -0.26736487224126726
+    ],
+    "color_variant_seed": 4
+  },
+  {
+    "file": "crops/red_004.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.5049940344955565,
+      -0.2683456008625159
+    ],
+    "color_variant_seed": 5
+  },
+  {
+    "file": "crops/red_005.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.44634655755275476,
+      -0.2953020510178832
+    ],
+    "color_variant_seed": 6
+  },
+  {
+    "file": "crops/red_006.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.3555016368556499,
+      -0.2905247039120348
+    ],
+    "color_variant_seed": 7
+  },
+  {
+    "file": "crops/red_007.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.43743005222862497,
+      -0.25567352724671694
+    ],
+    "color_variant_seed": 8
+  },
+  {
+    "file": "crops/red_008.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.4951736116283241,
+      -0.27377331790474196
+    ],
+    "color_variant_seed": 9
+  },
+  {
+    "file": "crops/red_009.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.2824544510348272,
+      -0.24746872379109255
+    ],
+    "color_variant_seed": 10
+  },
+  {
+    "file": "crops/red_010.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.5432232762797525,
+      -0.27511147763088045
+    ],
+    "color_variant_seed": 11
+  },
+  {
+    "file": "crops/red_011.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.33564519028333856,
+      -0.291592409470423
+    ],
+    "color_variant_seed": 12
+  },
+  {
+    "file": "crops/red_012.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.41628804764420957,
+      -0.24602173596468951
+    ],
+    "color_variant_seed": 13
+  },
+  {
+    "file": "crops/red_013.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.34222497315514555,
+      -0.2909627876689063
+    ],
+    "color_variant_seed": 14
+  },
+  {
+    "file": "crops/red_014.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.5385024162752912,
+      -0.27135020940190324
+    ],
+    "color_variant_seed": 15
+  },
+  {
+    "file": "crops/red_015.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.4038931941968252,
+      -0.24870215228662634
+    ],
+    "color_variant_seed": 16
+  },
+  {
+    "file": "crops/red_016.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.2952793805842683,
+      -0.2634531649591259
+    ],
+    "color_variant_seed": 17
+  },
+  {
+    "file": "crops/red_017.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.3516073802537924,
+      -0.25062964649352043
+    ],
+    "color_variant_seed": 18
+  },
+  {
+    "file": "crops/red_018.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.38656703620857563,
+      -0.28685460637223736
+    ],
+    "color_variant_seed": 19
+  },
+  {
+    "file": "crops/red_019.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.5102610441142728,
+      -0.26289636465397276
+    ],
+    "color_variant_seed": 20
+  },
+  {
+    "file": "crops/red_020.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.3062376459709044,
+      -0.25847002099369176
+    ],
+    "color_variant_seed": 21
+  },
+  {
+    "file": "crops/red_021.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.4251220482477419,
+      -0.24129944513292334
+    ],
+    "color_variant_seed": 22
+  },
+  {
+    "file": "crops/red_022.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.4811867400506392,
+      -0.24639270474904923
+    ],
+    "color_variant_seed": 23
+  },
+  {
+    "file": "crops/red_023.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.34328950726199015,
+      -0.24762710593440157
+    ],
+    "color_variant_seed": 24
+  },
+  {
+    "file": "crops/red_024.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.4754080656942327,
+      -0.2819072016734217
+    ],
+    "color_variant_seed": 25
+  },
+  {
+    "file": "crops/red_025.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.4469967853893792,
+      -0.2963338753120253
+    ],
+    "color_variant_seed": 26
+  },
+  {
+    "file": "crops/red_026.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.33960175621597677,
+      -0.24501416797982167
+    ],
+    "color_variant_seed": 27
+  },
+  {
+    "file": "crops/red_027.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.3157287949927569,
+      -0.2919837206176446
+    ],
+    "color_variant_seed": 28
+  },
+  {
+    "file": "crops/red_028.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.29224106616495354,
+      -0.25916803021200613
+    ],
+    "color_variant_seed": 29
+  },
+  {
+    "file": "crops/red_029.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.5022105195887671,
+      -0.29202314956226283
+    ],
+    "color_variant_seed": 30
+  },
+  {
+    "file": "crops/red_030.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.2806284842682472,
+      -0.2837471732367719
+    ],
+    "color_variant_seed": 31
+  },
+  {
+    "file": "crops/red_031.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.44686346325110293,
+      -0.29607012802868443
+    ],
+    "color_variant_seed": 32
+  },
+  {
+    "file": "crops/red_032.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.3690247368161895,
+      -0.2704948877634713
+    ],
+    "color_variant_seed": 33
+  },
+  {
+    "file": "crops/red_033.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.49807703911840273,
+      -0.24462851411678116
+    ],
+    "color_variant_seed": 34
+  },
+  {
+    "file": "crops/red_034.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.518674273452306,
+      -0.2941904810056349
+    ],
+    "color_variant_seed": 35
+  },
+  {
+    "file": "crops/red_035.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.33718688807941927,
+      -0.2922304148161278
+    ],
+    "color_variant_seed": 36
+  },
+  {
+    "file": "crops/red_036.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.43364647530620937,
+      -0.2544726265854631
+    ],
+    "color_variant_seed": 37
+  },
+  {
+    "file": "crops/red_037.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.38370897851723523,
+      -0.2491564865970727
+    ],
+    "color_variant_seed": 38
+  },
+  {
+    "file": "crops/red_038.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.34287321082246935,
+      -0.2958566498957932
+    ],
+    "color_variant_seed": 39
+  },
+  {
+    "file": "crops/red_039.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.34762414071506487,
+      -0.2824481767970745
+    ],
+    "color_variant_seed": 40
+  },
+  {
+    "file": "crops/red_040.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.48669712212665606,
+      -0.27907592565667627
+    ],
+    "color_variant_seed": 41
+  },
+  {
+    "file": "crops/red_041.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.3783340597869538,
+      -0.27263609194998345
+    ],
+    "color_variant_seed": 42
+  },
+  {
+    "file": "crops/red_042.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.5371370104317055,
+      -0.28157880574164457
+    ],
+    "color_variant_seed": 43
+  },
+  {
+    "file": "crops/red_043.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.3977853272798765,
+      -0.2613138168476963
+    ],
+    "color_variant_seed": 44
+  },
+  {
+    "file": "crops/red_044.png",
+    "class": "RED",
+    "split": "train",
+    "initial_xy_m": [
+      0.4107733527731917,
+      -0.28624678841668616
+    ],
+    "color_variant_seed": 45
+  },
+  {
+    "file": "crops/red_045.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.5290501288802291,
+      -0.29351979830070424
+    ],
+    "color_variant_seed": 46
+  },
+  {
+    "file": "crops/red_046.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.5098028226741937,
+      -0.2788379572785479
+    ],
+    "color_variant_seed": 47
+  },
+  {
+    "file": "crops/red_047.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.3930646850444894,
+      -0.256308383398926
+    ],
+    "color_variant_seed": 48
+  },
+  {
+    "file": "crops/red_048.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.28441013515042507,
+      -0.2517120098304483
+    ],
+    "color_variant_seed": 49
+  },
+  {
+    "file": "crops/red_049.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.30923038449039775,
+      -0.26696157101207785
+    ],
+    "color_variant_seed": 50
+  },
+  {
+    "file": "crops/red_050.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.37096247869943955,
+      -0.27209839497159777
+    ],
+    "color_variant_seed": 51
+  },
+  {
+    "file": "crops/red_051.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.48128326575432756,
+      -0.25586158815913046
+    ],
+    "color_variant_seed": 52
+  },
+  {
+    "file": "crops/red_052.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.387928633989204,
+      -0.2427579940068934
+    ],
+    "color_variant_seed": 53
+  },
+  {
+    "file": "crops/red_053.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.3762810428707962,
+      -0.2646869820487052
+    ],
+    "color_variant_seed": 54
+  },
+  {
+    "file": "crops/red_054.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.4219590826963478,
+      -0.2508682605908513
+    ],
+    "color_variant_seed": 55
+  },
+  {
+    "file": "crops/red_055.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.42793196485499124,
+      -0.24079829549932938
+    ],
+    "color_variant_seed": 56
+  },
+  {
+    "file": "crops/red_056.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.38675927791072356,
+      -0.2872759464462052
+    ],
+    "color_variant_seed": 57
+  },
+  {
+    "file": "crops/red_057.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.41540979983673143,
+      -0.27170792379483044
+    ],
+    "color_variant_seed": 58
+  },
+  {
+    "file": "crops/red_058.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.3325347044276433,
+      -0.24248726109248003
+    ],
+    "color_variant_seed": 59
+  },
+  {
+    "file": "crops/red_059.png",
+    "class": "RED",
+    "split": "test",
+    "initial_xy_m": [
+      0.39059530133103393,
+      -0.2842500603288067
+    ],
+    "color_variant_seed": 60
+  },
+  {
+    "file": "crops/green_000.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.42002031560145325,
+      -0.2805404441820039
+    ],
+    "color_variant_seed": 61
+  },
+  {
+    "file": "crops/green_001.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.2896527997638703,
+      -0.2613641691435657
+    ],
+    "color_variant_seed": 62
+  },
+  {
+    "file": "crops/green_002.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.4559217295025822,
+      -0.289471401629551
+    ],
+    "color_variant_seed": 63
+  },
+  {
+    "file": "crops/green_003.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.5355964076210435,
+      -0.24271388611100084
+    ],
+    "color_variant_seed": 64
+  },
+  {
+    "file": "crops/green_004.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.5323798163971418,
+      -0.29498101106966934
+    ],
+    "color_variant_seed": 65
+  },
+  {
+    "file": "crops/green_005.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.33245983423968223,
+      -0.28091373642833706
+    ],
+    "color_variant_seed": 66
+  },
+  {
+    "file": "crops/green_006.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.39277446898529783,
+      -0.24236360368220544
+    ],
+    "color_variant_seed": 67
+  },
+  {
+    "file": "crops/green_007.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.32117560586943894,
+      -0.28788042670029257
+    ],
+    "color_variant_seed": 68
+  },
+  {
+    "file": "crops/green_008.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.4246370298453336,
+      -0.280783553514694
+    ],
+    "color_variant_seed": 69
+  },
+  {
+    "file": "crops/green_009.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.49617331005767873,
+      -0.24411617106966146
+    ],
+    "color_variant_seed": 70
+  },
+  {
+    "file": "crops/green_010.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.3224446739771788,
+      -0.2611113220412211
+    ],
+    "color_variant_seed": 71
+  },
+  {
+    "file": "crops/green_011.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.4155037173478833,
+      -0.27554959747588026
+    ],
+    "color_variant_seed": 72
+  },
+  {
+    "file": "crops/green_012.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.4384089499189051,
+      -0.25375561318020734
+    ],
+    "color_variant_seed": 73
+  },
+  {
+    "file": "crops/green_013.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.30913515837074845,
+      -0.24975367493335016
+    ],
+    "color_variant_seed": 74
+  },
+  {
+    "file": "crops/green_014.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.42311622931926784,
+      -0.2834609046395679
+    ],
+    "color_variant_seed": 75
+  },
+  {
+    "file": "crops/green_015.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.3726736000084993,
+      -0.29074388964044895
+    ],
+    "color_variant_seed": 76
+  },
+  {
+    "file": "crops/green_016.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.5459948311515834,
+      -0.29963958451846795
+    ],
+    "color_variant_seed": 77
+  },
+  {
+    "file": "crops/green_017.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.39220300941923125,
+      -0.2538789506218184
+    ],
+    "color_variant_seed": 78
+  },
+  {
+    "file": "crops/green_018.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.4848078032527603,
+      -0.2537543519459978
+    ],
+    "color_variant_seed": 79
+  },
+  {
+    "file": "crops/green_019.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.2818062557723082,
+      -0.2805159973313666
+    ],
+    "color_variant_seed": 80
+  },
+  {
+    "file": "crops/green_020.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.36620714420694567,
+      -0.2554212041378768
+    ],
+    "color_variant_seed": 81
+  },
+  {
+    "file": "crops/green_021.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.45325842353340917,
+      -0.24443375520634336
+    ],
+    "color_variant_seed": 82
+  },
+  {
+    "file": "crops/green_022.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.4726057114809612,
+      -0.2967453992677644
+    ],
+    "color_variant_seed": 83
+  },
+  {
+    "file": "crops/green_023.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.3742279059408416,
+      -0.27554786802276837
+    ],
+    "color_variant_seed": 84
+  },
+  {
+    "file": "crops/green_024.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.3604806041462214,
+      -0.2682020531316233
+    ],
+    "color_variant_seed": 85
+  },
+  {
+    "file": "crops/green_025.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.3381070869986231,
+      -0.25048129646865885
+    ],
+    "color_variant_seed": 86
+  },
+  {
+    "file": "crops/green_026.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.3283924060165912,
+      -0.2747423870340744
+    ],
+    "color_variant_seed": 87
+  },
+  {
+    "file": "crops/green_027.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.3428692300890095,
+      -0.2905548218292292
+    ],
+    "color_variant_seed": 88
+  },
+  {
+    "file": "crops/green_028.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.5290290055138107,
+      -0.28030621160341124
+    ],
+    "color_variant_seed": 89
+  },
+  {
+    "file": "crops/green_029.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.35451854153256424,
+      -0.25946627416448637
+    ],
+    "color_variant_seed": 90
+  },
+  {
+    "file": "crops/green_030.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.29398537508377687,
+      -0.2843175861000455
+    ],
+    "color_variant_seed": 91
+  },
+  {
+    "file": "crops/green_031.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.5318299052724536,
+      -0.27630325500664793
+    ],
+    "color_variant_seed": 92
+  },
+  {
+    "file": "crops/green_032.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.5399382098087001,
+      -0.2955654565612129
+    ],
+    "color_variant_seed": 93
+  },
+  {
+    "file": "crops/green_033.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.34379979122162524,
+      -0.28785740968994694
+    ],
+    "color_variant_seed": 94
+  },
+  {
+    "file": "crops/green_034.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.36239497530179166,
+      -0.2863318085514889
+    ],
+    "color_variant_seed": 95
+  },
+  {
+    "file": "crops/green_035.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.4091719200419218,
+      -0.24043221273028578
+    ],
+    "color_variant_seed": 96
+  },
+  {
+    "file": "crops/green_036.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.42973388047130545,
+      -0.26116324517090284
+    ],
+    "color_variant_seed": 97
+  },
+  {
+    "file": "crops/green_037.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.5294223233009865,
+      -0.26061248713362883
+    ],
+    "color_variant_seed": 98
+  },
+  {
+    "file": "crops/green_038.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.5199885329781961,
+      -0.24527143429579898
+    ],
+    "color_variant_seed": 99
+  },
+  {
+    "file": "crops/green_039.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.3049174037517887,
+      -0.27835599170094144
+    ],
+    "color_variant_seed": 100
+  },
+  {
+    "file": "crops/green_040.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.3671783879714628,
+      -0.2659529619248389
+    ],
+    "color_variant_seed": 101
+  },
+  {
+    "file": "crops/green_041.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.5086338815055584,
+      -0.25052176334118753
+    ],
+    "color_variant_seed": 102
+  },
+  {
+    "file": "crops/green_042.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.3358326440279432,
+      -0.2967112378980985
+    ],
+    "color_variant_seed": 103
+  },
+  {
+    "file": "crops/green_043.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.4588147580183952,
+      -0.2742212590026162
+    ],
+    "color_variant_seed": 104
+  },
+  {
+    "file": "crops/green_044.png",
+    "class": "GREEN",
+    "split": "train",
+    "initial_xy_m": [
+      0.37437018790956134,
+      -0.26138479676382664
+    ],
+    "color_variant_seed": 105
+  },
+  {
+    "file": "crops/green_045.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.32811541401635075,
+      -0.2456762452701294
+    ],
+    "color_variant_seed": 106
+  },
+  {
+    "file": "crops/green_046.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.30730188886364157,
+      -0.2799440665297498
+    ],
+    "color_variant_seed": 107
+  },
+  {
+    "file": "crops/green_047.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.32135985704341713,
+      -0.25265989641289655
+    ],
+    "color_variant_seed": 108
+  },
+  {
+    "file": "crops/green_048.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.5162773926478388,
+      -0.2885036089656909
+    ],
+    "color_variant_seed": 109
+  },
+  {
+    "file": "crops/green_049.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.5208385927019011,
+      -0.24030351802781003
+    ],
+    "color_variant_seed": 110
+  },
+  {
+    "file": "crops/green_050.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.302968483427023,
+      -0.27722191544790925
+    ],
+    "color_variant_seed": 111
+  },
+  {
+    "file": "crops/green_051.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.5228681054181521,
+      -0.25268214019371155
+    ],
+    "color_variant_seed": 112
+  },
+  {
+    "file": "crops/green_052.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.3713988217090171,
+      -0.2431241838370243
+    ],
+    "color_variant_seed": 113
+  },
+  {
+    "file": "crops/green_053.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.2850385666504666,
+      -0.2782970657439681
+    ],
+    "color_variant_seed": 114
+  },
+  {
+    "file": "crops/green_054.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.49297177195329017,
+      -0.2704358409855212
+    ],
+    "color_variant_seed": 115
+  },
+  {
+    "file": "crops/green_055.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.48726330702194137,
+      -0.24662347965943843
+    ],
+    "color_variant_seed": 116
+  },
+  {
+    "file": "crops/green_056.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.3158460213713663,
+      -0.2946015453757244
+    ],
+    "color_variant_seed": 117
+  },
+  {
+    "file": "crops/green_057.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.4530947838711875,
+      -0.2866094493158687
+    ],
+    "color_variant_seed": 118
+  },
+  {
+    "file": "crops/green_058.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.31588986891996607,
+      -0.28216203018999697
+    ],
+    "color_variant_seed": 119
+  },
+  {
+    "file": "crops/green_059.png",
+    "class": "GREEN",
+    "split": "test",
+    "initial_xy_m": [
+      0.4079428557840591,
+      -0.29339909168138606
+    ],
+    "color_variant_seed": 120
+  },
+  {
+    "file": "crops/blue_000.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.33195751004508983,
+      -0.28145965759069763
+    ],
+    "color_variant_seed": 121
+  },
+  {
+    "file": "crops/blue_001.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.2850166424762938,
+      -0.2717651448447508
+    ],
+    "color_variant_seed": 122
+  },
+  {
+    "file": "crops/blue_002.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.29369550652868004,
+      -0.298815911711533
+    ],
+    "color_variant_seed": 123
+  },
+  {
+    "file": "crops/blue_003.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.35402037295218003,
+      -0.28344167613365495
+    ],
+    "color_variant_seed": 124
+  },
+  {
+    "file": "crops/blue_004.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.5374820405411751,
+      -0.2455952980411855
+    ],
+    "color_variant_seed": 125
+  },
+  {
+    "file": "crops/blue_005.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.2805305825365327,
+      -0.2862686218719561
+    ],
+    "color_variant_seed": 126
+  },
+  {
+    "file": "crops/blue_006.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.34145587470282013,
+      -0.297881683076984
+    ],
+    "color_variant_seed": 127
+  },
+  {
+    "file": "crops/blue_007.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.49301614581069564,
+      -0.2564162905922539
+    ],
+    "color_variant_seed": 128
+  },
+  {
+    "file": "crops/blue_008.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.3487463919006939,
+      -0.25885991301772476
+    ],
+    "color_variant_seed": 129
+  },
+  {
+    "file": "crops/blue_009.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.43834621590238054,
+      -0.25865108318902
+    ],
+    "color_variant_seed": 130
+  },
+  {
+    "file": "crops/blue_010.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.32638184424459155,
+      -0.2928524458125726
+    ],
+    "color_variant_seed": 131
+  },
+  {
+    "file": "crops/blue_011.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.30968933215701056,
+      -0.25648337516618996
+    ],
+    "color_variant_seed": 132
+  },
+  {
+    "file": "crops/blue_012.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.43855241899283187,
+      -0.2801117393787181
+    ],
+    "color_variant_seed": 133
+  },
+  {
+    "file": "crops/blue_013.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.3987925890788331,
+      -0.2753047660188771
+    ],
+    "color_variant_seed": 134
+  },
+  {
+    "file": "crops/blue_014.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.49829340902160363,
+      -0.2433522449669351
+    ],
+    "color_variant_seed": 135
+  },
+  {
+    "file": "crops/blue_015.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.39227649277738247,
+      -0.26532401624554286
+    ],
+    "color_variant_seed": 136
+  },
+  {
+    "file": "crops/blue_016.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.3671854922708059,
+      -0.2944773517596429
+    ],
+    "color_variant_seed": 137
+  },
+  {
+    "file": "crops/blue_017.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.4082702277029929,
+      -0.2511947977615813
+    ],
+    "color_variant_seed": 138
+  },
+  {
+    "file": "crops/blue_018.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.3915488869156551,
+      -0.2850854997549209
+    ],
+    "color_variant_seed": 139
+  },
+  {
+    "file": "crops/blue_019.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.46467020826256045,
+      -0.2558410662650737
+    ],
+    "color_variant_seed": 140
+  },
+  {
+    "file": "crops/blue_020.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.3036514655446177,
+      -0.27902015901248
+    ],
+    "color_variant_seed": 141
+  },
+  {
+    "file": "crops/blue_021.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.3265609715225013,
+      -0.27249398098274935
+    ],
+    "color_variant_seed": 142
+  },
+  {
+    "file": "crops/blue_022.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.34035061600224814,
+      -0.2917424585805171
+    ],
+    "color_variant_seed": 143
+  },
+  {
+    "file": "crops/blue_023.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.3323060917664791,
+      -0.24562408667798402
+    ],
+    "color_variant_seed": 144
+  },
+  {
+    "file": "crops/blue_024.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.4043088785680205,
+      -0.28360220667858155
+    ],
+    "color_variant_seed": 145
+  },
+  {
+    "file": "crops/blue_025.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.5012517579192983,
+      -0.2776672270528745
+    ],
+    "color_variant_seed": 146
+  },
+  {
+    "file": "crops/blue_026.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.2955842271286002,
+      -0.2828400647203525
+    ],
+    "color_variant_seed": 147
+  },
+  {
+    "file": "crops/blue_027.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.37029168944832264,
+      -0.2535799526695256
+    ],
+    "color_variant_seed": 148
+  },
+  {
+    "file": "crops/blue_028.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.43753842536954923,
+      -0.26526512851806705
+    ],
+    "color_variant_seed": 149
+  },
+  {
+    "file": "crops/blue_029.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.42029863869568707,
+      -0.29273033783238017
+    ],
+    "color_variant_seed": 150
+  },
+  {
+    "file": "crops/blue_030.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.48962109262685155,
+      -0.25788121828092125
+    ],
+    "color_variant_seed": 151
+  },
+  {
+    "file": "crops/blue_031.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.4597957980250541,
+      -0.2475781767827348
+    ],
+    "color_variant_seed": 152
+  },
+  {
+    "file": "crops/blue_032.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.2817457994982497,
+      -0.2552855243802596
+    ],
+    "color_variant_seed": 153
+  },
+  {
+    "file": "crops/blue_033.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.5453734191159014,
+      -0.2718379329254812
+    ],
+    "color_variant_seed": 154
+  },
+  {
+    "file": "crops/blue_034.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.35340400749419176,
+      -0.28831964452468767
+    ],
+    "color_variant_seed": 155
+  },
+  {
+    "file": "crops/blue_035.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.39504868520642655,
+      -0.2623197608948803
+    ],
+    "color_variant_seed": 156
+  },
+  {
+    "file": "crops/blue_036.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.36720358744651893,
+      -0.25257605979028774
+    ],
+    "color_variant_seed": 157
+  },
+  {
+    "file": "crops/blue_037.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.5002927063419358,
+      -0.268723625494565
+    ],
+    "color_variant_seed": 158
+  },
+  {
+    "file": "crops/blue_038.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.5210994727616367,
+      -0.2992229820904429
+    ],
+    "color_variant_seed": 159
+  },
+  {
+    "file": "crops/blue_039.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.319680813074729,
+      -0.2641584535721422
+    ],
+    "color_variant_seed": 160
+  },
+  {
+    "file": "crops/blue_040.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.4621030015934955,
+      -0.2894784271473978
+    ],
+    "color_variant_seed": 161
+  },
+  {
+    "file": "crops/blue_041.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.360461991025731,
+      -0.2600803237084081
+    ],
+    "color_variant_seed": 162
+  },
+  {
+    "file": "crops/blue_042.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.2886995774340399,
+      -0.29188354371076847
+    ],
+    "color_variant_seed": 163
+  },
+  {
+    "file": "crops/blue_043.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.3094573259449256,
+      -0.28330006543318914
+    ],
+    "color_variant_seed": 164
+  },
+  {
+    "file": "crops/blue_044.png",
+    "class": "BLUE",
+    "split": "train",
+    "initial_xy_m": [
+      0.31495991326855577,
+      -0.2405054774620499
+    ],
+    "color_variant_seed": 165
+  },
+  {
+    "file": "crops/blue_045.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.5437110770685838,
+      -0.28193450901480527
+    ],
+    "color_variant_seed": 166
+  },
+  {
+    "file": "crops/blue_046.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.4238956206482921,
+      -0.27498843217249486
+    ],
+    "color_variant_seed": 167
+  },
+  {
+    "file": "crops/blue_047.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.30085659920039554,
+      -0.24234297050515094
+    ],
+    "color_variant_seed": 168
+  },
+  {
+    "file": "crops/blue_048.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.38452838033336684,
+      -0.29536565656880825
+    ],
+    "color_variant_seed": 169
+  },
+  {
+    "file": "crops/blue_049.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.47566437123545835,
+      -0.2666170146871441
+    ],
+    "color_variant_seed": 170
+  },
+  {
+    "file": "crops/blue_050.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.29043891701735447,
+      -0.26956444112682987
+    ],
+    "color_variant_seed": 171
+  },
+  {
+    "file": "crops/blue_051.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.46413302434260006,
+      -0.2976707472382711
+    ],
+    "color_variant_seed": 172
+  },
+  {
+    "file": "crops/blue_052.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.4772706685183946,
+      -0.24644795927175253
+    ],
+    "color_variant_seed": 173
+  },
+  {
+    "file": "crops/blue_053.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.5134022126119496,
+      -0.28047997686336523
+    ],
+    "color_variant_seed": 174
+  },
+  {
+    "file": "crops/blue_054.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.4370730646709604,
+      -0.2546503563692502
+    ],
+    "color_variant_seed": 175
+  },
+  {
+    "file": "crops/blue_055.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.40783691889448914,
+      -0.26896357512072905
+    ],
+    "color_variant_seed": 176
+  },
+  {
+    "file": "crops/blue_056.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.4976137069166113,
+      -0.2898865886711744
+    ],
+    "color_variant_seed": 177
+  },
+  {
+    "file": "crops/blue_057.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.3813257026079116,
+      -0.24659395637221318
+    ],
+    "color_variant_seed": 178
+  },
+  {
+    "file": "crops/blue_058.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.32183001954054646,
+      -0.2901010738469433
+    ],
+    "color_variant_seed": 179
+  },
+  {
+    "file": "crops/blue_059.png",
+    "class": "BLUE",
+    "split": "test",
+    "initial_xy_m": [
+      0.4666728004915571,
+      -0.2522364375141756
+    ],
+    "color_variant_seed": 180
+  }
+]

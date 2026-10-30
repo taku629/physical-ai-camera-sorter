@@ -1,0 +1,93 @@
+{
+  "sort_results": [
+    {
+      "seq": 1,
+      "actual_class": "RED",
+      "predicted_class": "RED",
+      "confidence": 0.999991637994215,
+      "target_tray": "RED",
+      "object_body_id": 22,
+      "oracle_pick_xyz_m": [
+        0.32,
+        -0.25,
+        0.6269899074912008
+      ],
+      "oracle_pose_used_for_aiming": true,
+      "camera_inferred_pose": false,
+      "contact_verified": true,
+      "finger_contact_count": 2,
+      "ee_object_distance_m": 0.003106604136009931,
+      "constraint_created": true,
+      "constraint_type": "fixed virtual-grasp assist; only after finger contact and <=0.12m EE/object distance",
+      "measured_height_after_lift_m": 0.9766678693030966,
+      "lifted_after_verified_contact": true,
+      "final_xyz_m": [
+        0.4998998143869248,
+        -0.49995337942481255,
+        0.6569862971288205
+      ],
+      "inside_predicted_tray_bounds": true,
+      "success": true
+    },
+    {
+      "seq": 2,
+      "actual_class": "GREEN",
+      "predicted_class": "GREEN",
+      "confidence": 0.9999902672123798,
+      "target_tray": "GREEN",
+      "object_body_id": 23,
+      "oracle_pick_xyz_m": [
+        0.43,
+        -0.25,
+        0.6269899074912021
+      ],
+      "oracle_pose_used_for_aiming": true,
+      "camera_inferred_pose": false,
+      "contact_verified": true,
+      "finger_contact_count": 2,
+      "ee_object_distance_m": 0.0030138213247234385,
+      "constraint_created": true,
+      "constraint_type": "fixed virtual-grasp assist; only after finger contact and <=0.12m EE/object distance",
+      "measured_height_after_lift_m": 0.9767522451395272,
+      "lifted_after_verified_contact": true,
+      "final_xyz_m": [
+        0.6997764903905738,
+        -7.545072201383375e-05,
+        0.6569871259019239
+      ],
+      "inside_predicted_tray_bounds": true,
+      "success": true
+    },
+    {
+      "seq": 3,
+      "actual_class": "BLUE",
+      "predicted_class": "BLUE",
+      "confidence": 0.999977296857417,
+      "target_tray": "BLUE",
+      "object_body_id": 24,
+      "oracle_pick_xyz_m": [
+        0.54,
+        -0.25,
+        0.6269899074912021
+      ],
+      "oracle_pose_used_for_aiming": true,
+      "camera_inferred_pose": false,
+      "contact_verified": true,
+      "finger_contact_count": 2,
+      "ee_object_distance_m": 0.0030029165471037165,
+      "constraint_created": true,
+      "constraint_type": "fixed virtual-grasp assist; only after finger contact and <=0.12m EE/object distance",
+      "measured_height_after_lift_m": 0.9767598722341184,
+      "lifted_after_verified_contact": true,
+      "final_xyz_m": [
+        0.49968206079823485,
+        0.49990449991283636,
+        0.6569869239107755
+      ],
+      "inside_predicted_tray_bounds": true,
+      "success": true
+    }
+  ],
+  "all_sort_success": true,
+  "video_created": false
+}

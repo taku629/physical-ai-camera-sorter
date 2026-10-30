@@ -1,0 +1,67 @@
+{
+  "seed": 20261029,
+  "model": "sklearn MLPClassifier(hidden_layer_sizes=(16,8), solver=lbfgs)",
+  "input": "15 RGB statistics (mean/std/25th/50th/75th percentile); simulator segmentation masks background, no body ID feature",
+  "n_samples_total": 180,
+  "train_n": 135,
+  "test_n": 45,
+  "class_order": [
+    "RED",
+    "GREEN",
+    "BLUE"
+  ],
+  "train_class_counts": {
+    "RED": 45,
+    "GREEN": 45,
+    "BLUE": 45
+  },
+  "test_class_counts": {
+    "RED": 15,
+    "GREEN": 15,
+    "BLUE": 15
+  },
+  "test_correct": 45,
+  "test_total": 45,
+  "test_accuracy": 1.0,
+  "confusion_matrix_rows_true_cols_pred": [
+    [
+      15,
+      0,
+      0
+    ],
+    [
+      0,
+      15,
+      0
+    ],
+    [
+      0,
+      0,
+      15
+    ]
+  ],
+  "per_class": {
+    "RED": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "GREEN": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "BLUE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "iterations": 46,
+  "stopped_before_max_iter": true,
+  "limitations": [
+    "Fixed camera and simulation appearance",
+    "Privileged segmentation provides object crop; no camera-based 3D localization",
+    "Synthetic rendered crops are not real-world data"
+  ]
+}

@@ -1,0 +1,4 @@
+seq,actual_class,predicted_class,confidence,target_tray,contact_verified,finger_contact_count,ee_object_distance_m,constraint_created,measured_height_after_lift_m,lifted_after_verified_contact,final_xyz_m,inside_predicted_tray_bounds,success,oracle_pose_used_for_aiming,camera_inferred_pose
+1,RED,RED,0.9999951704780677,RED,True,2,0.0031102338213844583,True,0.9766678072319012,True,"[0.49987846078630277, -0.5000273915215684, 0.6569861261403598]",True,True,True,False
+2,GREEN,GREEN,0.9999948824972301,GREEN,True,2,0.0030129577067524753,True,0.976752205165119,True,"[0.6997862266254312, 9.834641092804426e-06, 0.6569879102122773]",True,True,True,False
+3,BLUE,BLUE,0.9999687730763022,BLUE,True,2,0.003002916545475093,True,0.9767598722289237,True,"[0.4996820607613119, 0.499904499908109, 0.6569869239124198]",True,True,True,False

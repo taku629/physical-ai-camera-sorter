@@ -1,0 +1,8 @@
+# Verified against importlib.metadata in the Python 3.12.3 project environment.
+imageio==2.38.1
+imageio-ffmpeg==0.7.0
+joblib==1.6.0
+numpy==2.5.3
+opencv-python-headless==5.0.0.93
+pybullet==3.2.7
+scikit-learn==1.9.1
